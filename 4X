@@ -1,0 +1,12 @@
+package Herança;
+
+import java.util.Date;
+
+public class Vendedor extends Funcionario {
+
+  private String nome;
+  private String cpf;
+  private Date dataNascimento;
+  private float salario;
+  
+}  
